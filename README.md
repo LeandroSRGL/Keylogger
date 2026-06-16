@@ -72,4 +72,4 @@ Este projeto existe **somente para fins educacionais**. O uso de keyloggers em d
 
 **Leandro Santos Rangel**  
 Técnico em Desenvolvimento de Sistemas — Educação Profissional Paulista  
-[LinkedIn](https://www.linkedin.com/in/leandro-santos-rangel) • [GitHub](https://github.com/leandrosantosrangel)
+[LinkedIn](https://www.linkedin.com/in/leandro-srgl) • [GitHub](https://github.com/LeandroSRGL)
